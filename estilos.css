@@ -1,0 +1,263 @@
+html,
+body{
+    height: 100%;
+    width: 100%;
+    font-size: 10px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+.navbar{
+    height: 7rem;
+    width: 100%;
+    background-color: #FDE74C;
+}
+
+    .containerNav{
+        background-color: #FDE74C;
+    }
+
+        .imgNavStyle{
+            height: 6rem;
+            width: 6rem;
+            object-fit: cover;
+        }
+
+        #navbarNav{
+            height: auto;
+            font-size: 2rem;
+            padding: 1rem;
+            width: 100%;
+        }
+
+            .nav-link{
+                color: #404E4D;
+            }
+
+@media only screen and (min-width:1024px){
+
+    #navbarNav{
+        font-size: 2rem;
+    }
+
+        .nav-link{
+            margin-left: 1rem;
+        }
+
+}
+
+.homeSection{
+    height: 70rem;
+    width: 100%;
+    background-color: #404E4D;
+}
+
+.homeRowTwo img{
+    height: auto;
+    max-width: 75%;
+    object-fit: cover;
+}
+
+.homeRowOne h2{
+    font-size: 3rem;
+}
+
+.homeRowOne p{
+    font-size: 1.5rem;
+}
+
+.homeRowOne button{
+    font-size: 2rem;
+    color: #404E4D;
+}
+
+@media only screen and (min-width:1024px){
+
+    .homeRowOne h2{
+        font-size: 4rem;
+    }
+    
+    .homeRowOne p{
+        font-size: 2.5rem;
+    }
+    
+    .homeRowOne button{
+        font-size: 2rem;
+        color: #404E4D;
+    }
+
+}
+
+.servicesSection{
+    height: 130rem;
+    width: 100%;
+}
+
+    .sectionTitle{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 10rem;
+    }
+
+        .sectionTitle h2{
+            font-size: 5rem;
+        }
+
+.cardBoxServices{
+    height: 35rem;
+    border: .1rem solid #FDE74C;
+    border-radius: 1rem;
+    background: #404E4D;
+}
+
+    .cardBoxServices img{
+        width: 35rem;
+        height: 20rem;
+        object-fit: cover;
+    }
+
+    .cardBoxServices h3{
+        font-size: 3rem;
+    }
+
+    .cardBoxServices p{
+        font-size: 1.5rem;
+    }
+
+@media only screen and (min-width: 1024px){
+
+    .servicesSection{
+        height: 70rem;
+    }
+            .sectionTitle h2{
+                font-size: 7rem;
+            }
+    
+    .cardBoxServices{
+        height: 50rem;
+        border: .1rem solid #FDE74C;
+        border-radius: 1rem;
+    }
+    
+        .cardBoxServices img{
+        }
+    
+        .cardBoxServices h3{
+            font-size: 3.5rem;
+        }
+    
+        .cardBoxServices p{
+            font-size: 2rem;
+        }
+
+}
+
+.aboutusSection{
+    height: 90rem;
+    width: 100%;
+    background: #404E4D;
+}
+
+    .list-group-item{
+        background: #404E4D;
+        transition: background 1s;
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    .imgAbout{
+        max-width: 75%;
+        height: auto;
+        object-fit: cover;
+    }
+
+@media only screen and (min-width:1024px){
+
+    .aboutusSection{
+        height: 60rem;
+    }
+
+    .imgAbout{
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .list-group-item:hover{
+        background: #FDE74C;
+        transition: background 1s;
+    }
+}
+
+
+.productsSection{
+    height: 110rem;
+    width: 100%;
+}
+
+.imgProduct{
+    max-width: 60%;
+    height: auto;
+    object-fit: cover;
+}
+
+@media only screen and (min-width:1024px){
+
+    .productsSection{
+        height: 60rem;
+    }
+
+    .imgProduct{
+        max-width: 50%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .list-group-item:hover{
+        background: #FDE74C;
+        transition: background 1s;
+    }
+}
+
+.footerSection{
+    width: 100%;
+    height: 50rem;
+    background: #FDE74C;
+}
+
+    .rowFooterConfig h2{
+        font-size: 3rem;
+        color:#404E4D;
+    }
+
+    .rowFooterConfig p{
+        font-size: 1.5rem;
+        color:#404E4D;
+    }
+
+    .rowFooterConfig input{
+        width: 80%;
+        height: 3rem;
+        font-size: 2rem;
+        color:#404E4D;
+    }
+
+    .rowFooterConfig button{
+        width: 80%;
+        height: 4rem;
+        font-size: 2rem;
+        color:#404E4D;
+    }
+
+@media only screen and (min-width:1024px){
+
+    .footerSection{
+        height: 25rem;
+    }
+
+}
