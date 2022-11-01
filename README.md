@@ -26,15 +26,15 @@ I made a website about dev company, but basically what I did was to take a desig
 
 ## Galery
 
-![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany-0.jpg)
+![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-0.jpg)
 
-![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany-1.jpg)
+![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-1.jpg)
 
-![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany-2.jpg)
+![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-2.jpg)
 
-![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany-3.jpg)
+![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-3.jpg)
 
-![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany-4.jpg)
+![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-4.jpg)
 
 ## Portfolio Link
 
