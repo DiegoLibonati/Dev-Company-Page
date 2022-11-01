@@ -26,7 +26,7 @@ I made a website about dev company, but basically what I did was to take a desig
 
 ## Galery
 
-![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-0.jpg)
+![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany.jpg)
 
 ![Dev-company](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/devcompany/devcompany-1.jpg)
 
