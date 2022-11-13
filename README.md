@@ -38,7 +38,7 @@ I made a website about dev company, but basically what I did was to take a desig
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Dev%20company%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Dev%20Company%20Page`
 
 ## Video
 
